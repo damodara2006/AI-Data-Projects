@@ -1,0 +1,6 @@
+[submodule "PySpark-Jupyter-lab"]
+	path = PySpark-Jupyter-lab
+	url = https://github.com/damodara2006/PySpark.git
+[submodule "GenAI-Learning"]
+	path = GenAI-Learning
+	url = https://github.com/damodara2006/GenAI_Apex.git
