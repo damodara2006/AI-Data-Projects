@@ -4,3 +4,6 @@
 [submodule "GenAI-Learning"]
 	path = GenAI-Learning
 	url = https://github.com/damodara2006/GenAI_Apex.git
+[submodule "Retail_ETL"]
+	path = Retail_ETL
+	url = https://github.com/damodara2006/Retial_ETL.git
